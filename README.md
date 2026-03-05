@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋 I'm Vivek
 
-<!--
-**vivekpeerlagudem/vivekpeerlagudem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI Engineer | Machine Learning | Data Science
 
-Here are some ideas to get you started:
+🎓 BTech in Computer Science Engineering  
+📍 Hyderabad, India  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills
+
+Python | Machine Learning | Data Analysis  
+Pandas | NumPy | Scikit-Learn  
+TensorFlow | Deep Learning  
+MySQL | React | JavaScript  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekpeeralgudem&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Current Focus
+
+Artificial Intelligence  
+Machine Learning  
+Data Analytics  
+Open Source Projects  
+
+---
+
+## 📫 Contact
+
+LinkedIn: https://www.linkedin.com/in/vivek-peerlagudem/
+Email: peerlagudemvivek@gmail.com
