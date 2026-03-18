@@ -29,6 +29,11 @@ Machine Learning
 Data Analytics  
 Open Source Projects  
 
+💻 Tech Stack:
+React Next JS JavaScript HTML5 TailwindCSS TypeScript Java AWS .Net NPM MongoDB MySQL Git GitHub C++ Solidity
+
+📊 GitHub Stats:
+
 ---
 
 ## 📫 Contact
