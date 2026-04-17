@@ -1,6 +1,5 @@
 <!-- 🔥 AI Banner (replace with your own later if needed) -->
-
-![Banner](https://capsule-render.vercel.app/api?type=waving\&color=0:0f2027,50:203a43,100:2c5364\&height=200\&section=header\&text=Vivek%20|%20AI%20Engineer\&fontSize=40\&fontColor=ffffff)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vivek%20|%20AI%20Engineer%20%26%20Full%20Stack%20Developer&fontSize=40&fontColor=ffffff)
 
 # Hey, I'm Vivek 👋
 
@@ -13,12 +12,6 @@ I’ve developed production-grade solutions that automate workflows, reduce manu
 💡 I enjoy solving real-world problems by combining **AI + software engineering** to build intelligent, scalable systems.
 
 ---
-
-## 📊 GitHub Stats
-
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekpeerlagudem\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekpeerlagudem\&layout=compact\&theme=tokyonight)
 
 ---
 
