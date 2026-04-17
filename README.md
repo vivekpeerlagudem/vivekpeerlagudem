@@ -1,7 +1,5 @@
 <!-- 🔥 AI Banner (replace with your own later if needed) -->
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vivek%20|%20AI%20Engineer&fontSize=40&fontColor=ffffff)
-
-
 # Hey, I'm Vivek 👋
 
 🚀 AI Engineer | Full Stack Developer | Building Scalable Intelligent Systems
@@ -11,13 +9,6 @@ I’m a Computer Science graduate (2025) with hands-on experience building **AI-
 I’ve developed production-grade solutions that automate workflows, reduce manual effort, and deliver measurable business impact — from AI job automation bots to multi-LLM research agents.
 
 💡 I enjoy solving real-world problems by combining **AI + software engineering** to build intelligent, scalable systems.
-
----
-
----
-
-
----
 
 ## 💡 What I Do
 
