@@ -1,6 +1,5 @@
 <!-- 🔥 AI Banner (replace with your own later if needed) -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vivek%20|%20AI%20Engineer%20%26%20Full%20Stack%20Developer&fontSize=40&fontColor=ffffff)
-
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=200&text=Vivek%20%7C%20AI%20%26%20Full%20Stack%20Engineer&fontSize=40&fontColor=ffffff)
 # Hey, I'm Vivek 👋
 
 🚀 AI Engineer | Full Stack Developer | Building Scalable Intelligent Systems
