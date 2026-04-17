@@ -18,7 +18,7 @@ I’ve developed production-grade solutions that automate workflows, reduce manu
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/vivekpeerlagudem/vivekpeerlagudem/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/vivekpeerlagudem/vivekpeerlagudem/output/github-contribution-grid-snake.svg)
 
 ---
 
