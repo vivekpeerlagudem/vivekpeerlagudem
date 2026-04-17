@@ -61,20 +61,28 @@ I’ve developed production-grade solutions that automate workflows, reduce manu
 ## 🛠 Tech Stack
 
 ### 🤖 AI & LLMs
-
-OpenAI • Claude • LangChain • RAG • AI Agents • Prompt Engineering
+![OpenAI](https://img.shields.io/badge/OpenAI-000?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-000?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-000?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-000?style=for-the-badge)
 
 ### 🌐 Full Stack
-
-React.js • Next.js • Node.js • Express.js • Tailwind CSS
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge)
 
 ### 💻 Languages
-
-Python • JavaScript • TypeScript • Java • C
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 
 ### 🗄 Databases & Tools
-
-MongoDB • Firebase • MySQL • SQLite • Git • Playwright • Postman
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 
 ---
 
@@ -88,10 +96,24 @@ MongoDB • Firebase • MySQL • SQLite • Git • Playwright • Postman
 
 ## 📜 Certifications
 
-* Deep Learning Applications
-* GenAI Prompt Engineering
-* LLM & Generative AI (Kore.ai)
+- **Anthropic**
+  - Introduction to MCP  
+  - Claude Code in Action  
+  - Advanced MCP Topics  
+  - Building with Claude API  
+  - AI Fluency: Framework & Foundations  
+  - Teaching AI Fluency  
+  - AI Fluency for Educators  
+  - AI Fluency for Students  
 
+- **Deep Learning Applications**
+  - Foundations and real-world AI applications  
+
+- **GenAI Prompt Engineering**
+  - ChatGPT Champion Challenge – MetaLeap University  
+
+- **LLM & Generative AI**
+  - Kore.ai Platform  
 ---
 
 ## 📫 Connect With Me
